@@ -75,6 +75,7 @@ print("yo")
 ```
 
 ## Installing isort
+## By Mudassir Alam
 
 Installing isort is as simple as:
 
